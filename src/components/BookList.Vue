@@ -3,12 +3,7 @@
 <h1>
     {{title}}
 </h1>
-
-
-
   </div>
-  
-
 </template>
 <script>
 export default {
@@ -19,7 +14,6 @@ export default {
             title:"all Books"
         }
     }
-    
 }
 </script>
 <style>
